@@ -1,0 +1,77 @@
+*{
+    margin: 0; padding: 0;
+}
+
+
+section{
+    margin-left:3rem ;
+}
+
+
+
+
+.header .in-header{
+    padding: 3rem 7rem;
+}
+.header{
+    font-family: Lato, sans-serif;
+    color: #fff;
+    background-color: rgb(78, 78, 78);
+    font-size: 0.9em;
+    width: 96vw;
+    height: auto;
+}
+
+.img img{
+    width: 17rem;
+}
+
+
+
+
+
+.col-lg-8 ul{
+    display: flex;
+    padding-top: 16% ;
+    position: relative;
+    right: 2rem;
+    
+}
+
+.col-lg-8 ul li{
+    font-style: italic;
+    list-style: none;
+    margin-inline-end: 2rem;
+    
+}
+
+
+
+.music-list{
+    margin: 1rem ;
+}
+.music-list .row{
+
+    padding: .5rem 3rem;
+}
+
+.bg{
+    background-color: rgb(242, 242, 242)
+}
+
+
+
+.footer{
+    background-color: rgba(61, 100, 158, 0.9);
+    height: 20vh;
+    width: 100vw;
+    color: #fff;
+    margin-right: auto;
+}
+ 
+.footer .footer-text{
+   
+    padding-top: 2rem;
+    margin-left: .8rem;
+    
+}
